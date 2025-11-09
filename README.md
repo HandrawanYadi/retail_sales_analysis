@@ -23,7 +23,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 ---
 
 <!-- ========================================= -->
-<!-- EXECUTIVE SUMMARY (UPDATED) -->
+<!-- EXECUTIVE SUMMARY -->
 <!-- ========================================= -->
 <table align="center">
   <tr>
@@ -214,3 +214,69 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 ---
 
 <p align="center">
+
+<h1 align="center">Pareto Analysis</h1>
+<img width="1345" height="635" alt="Screenshot 2025-11-09 at 11 07 45 PM" src="https://github.com/user-attachments/assets/2adbe822-ba39-4e7b-b04c-561183c56b79" />
+
+## Overview
+<ul>
+<li>This analysis visualises the relationship between total sales and their cumulative contribution across product sub-categories.</li>
+<li>The chart combines:
+  <ul>
+    <li><strong>Bar graph</strong> representing total sales value (in thousands)</li>
+    <li><strong>Line graph</strong> representing cumulative percentage of total sales</li>
+  </ul>
+</li>
+<li>This provides a dual perspective showing both volume and proportional impact.</li>
+</ul>
+
+## Key Insights
+<ol>
+<li><strong>Sales Distribution Pattern</strong>
+  <ul>
+    <li>Phones and Chairs are the leading categories, each generating around 330K in sales.</li>
+    <li>Storage, Tables, and Binders follow as solid contributors.</li>
+    <li>Together, these 5 sub-categories make up roughly 56% of total sales.</li>
+    <li>The sales spread indicates a balanced portfolio, with no extreme concentration in a few items.</li>
+  </ul>
+</li>
+
+<li><strong>Cumulative Trend</strong>
+  <ul>
+    <li>The cumulative line reaches 80 percent of total sales after 8 categories.</li>
+    <li>In a classic Pareto scenario, 80 percent would typically be reached after only 3 to 4 categories.</li>
+    <li>The flatter cumulative curve reflects a more diversified sales distribution.</li>
+  </ul>
+</li>
+
+<li><strong>Operational Interpretation</strong>
+  <ul>
+    <li>Sales are distributed across multiple categories, implying steady multi-product demand.</li>
+    <li>Operational improvements should focus on:
+      <ul>
+        <li>Enhancing demand forecasting accuracy</li>
+        <li>Maintaining balanced stock levels</li>
+        <li>Improving replenishment lead times and throughput</li>
+      </ul>
+    </li>
+    <li>SKU reduction is not essential; focus should be on process efficiency and service reliability.</li>
+  </ul>
+</li>
+
+<li><strong>Strategic Summary</strong>
+  <ul>
+    <li><strong>Top performers</strong> - require strong service-level and consistent stock availability.</li>
+    <li><strong>Mid-range contributors</strong> — maintain lean but reliable inventory control.</li>
+    <li><strong>Tail categories</strong> — low revenue share; suitable for periodic review or rationalisation.</li>
+  </ul>
+</li>
+
+
+## Conclusion
+<ul>
+<li>The top 8 sub-categories collectively contribute around 80% of total sales, confirming a moderately balanced portfolio.</li>
+<li>The distribution is more even than a typical 80/20 Pareto pattern, indicating diversified revenue sources.</li>
+<li>This structure lowers dependency risk while maintaining operational stability.</li>
+<li>Next step: perform ABC–XYZ classification to connect demand variability with inventory control policy and service-level strategy.</li>
+</ul>
+
