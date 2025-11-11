@@ -1,6 +1,7 @@
 
 
-# Retail Sales Performance Report
+<h1 align="center">Retail Sales Performance Report</h1>
+
 
 ## Client Background
 This analysis is based on a **retail sales dataset** containing **9,994 transaction records** spanning **four years (2019–2022)**. The data captures a comprehensive view of business operations across **multiple regions, customer segments, and product categories**, providing valuable insights into sales performance, profitability, and customer behaviour.
@@ -75,12 +76,9 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
   </tr>
 </table>
 
-<p align="center">
-  <em>This project uses a publicly available retail dataset and a sample company context, created for analytical demonstration and portfolio presentation purposes.</em>
-</p>
+<h2 align="center">Dataset Overview</h2>
 
-
-## Dataset Overview
+<div align="center">
 
 | Attribute | Description |
 |------------|-------------|
@@ -95,7 +93,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 | Sales / Quantity / Discount / Profit | Financial and performance indicators |
 | Returned | Return status of the product |
 
----
+</div>
 
 <h1 align="center">Insights Deep-Dive</h1>
 <h2 align="center">Sales Trend (2014–2017)</h2>
@@ -226,7 +224,6 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
     <li><strong>Line graph</strong> representing cumulative percentage of total sales</li>
   </ul>
 </li>
-<li>This provides a dual perspective showing both volume and proportional impact.</li>
 </ul>
 
 ## Key Insights
@@ -270,12 +267,72 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
   </ul>
 </li>
 
+---
 
-## Conclusion
-<ul>
-<li>The top 8 sub-categories collectively contribute around 80% of total sales, confirming a moderately balanced portfolio.</li>
-<li>The distribution is more even than a typical 80/20 Pareto pattern, indicating diversified revenue sources.</li>
-<li>This structure lowers dependency risk while maintaining operational stability.</li>
-<li>Next step: perform ABC–XYZ classification to connect demand variability with inventory control policy and service-level strategy.</li>
-</ul>
+<h1 align="center">Recommendations</h1>
+
+The following recommendations summarise key actions identified from the **Retail Sales Performance Report (2014–2017)** to support continued growth, strengthen margins, and improve operational efficiency.
+
+### **Sales**
+
+- **Plan ahead for peak seasons**  
+  Q4 consistently delivers the highest sales performance, exceeding other quarters by up to 30%. Ensure inventory, staffing, and marketing activities are aligned to capture this surge in demand.
+
+- **Stabilise sales in low-performing quarters**  
+  Q1 and Q2 demonstrate weaker performance. Introduce targeted campaigns, loyalty incentives, or bundled offers during these periods to reduce seasonality gaps and maintain consistent revenue flow.
+
+- **Adopt the $144K average as a performance benchmark**  
+  Use the average quarterly sales of $144K as a reference point for forecasting, sales planning, and performance evaluation.
+
+---
+
+### **Products and Inventory**
+
+- **Focus on high-performing categories**  
+  Phones and Chairs remain the strongest revenue drivers. Maintain optimal stock levels, reinforce marketing efforts, and ensure supply continuity for these key products.
+
+- **Optimise mid-performing categories**  
+  Sub-categories such as Storage, Tables, and Binders show stable demand. Apply lean inventory practices to maintain balance between availability and capital efficiency.
+
+- **Evaluate and manage low-performing products**  
+  Review slow-moving categories regularly. Retain only those that contribute strategic or niche value; otherwise, rationalise inventory to free up working capital.
+
+- **Implement structured inventory control**  
+  Adopt an **ABC–XYZ classification** to link product value with demand variability. This approach will enhance replenishment accuracy and prevent overstocking.
+
+---
+
+### **Profitability**
+
+- **Maintain margin discipline**  
+  Profit growth reached a quarterly peak of $33K in 2017. Continue reinforcing pricing control, supplier management, and operational efficiency to sustain profitability.
+
+- **Refine discount strategy**  
+  Evaluate the long-term impact of discounting. Focus on targeted promotions that drive meaningful sales uplift without eroding margin.
+
+---
+
+### **Customer and Order Management**
+
+- **Encourage repeat purchasing**  
+  Order volumes increased by more than 150% over the review period. Build on this momentum through customer retention initiatives such as loyalty programmes or repeat-purchase incentives.
+
+- **Use order data to guide forecasting**  
+  Incorporate historical order trends into demand planning and procurement. This ensures alignment between sales activity and stock availability.
+
+---
+
+### **Operations**
+
+- **Strengthen demand forecasting**  
+  Leverage historical seasonality patterns—particularly Q3 and Q4 surges—to plan production, logistics, and workforce scheduling with greater accuracy.
+
+- **Maintain balanced product diversification**  
+  Pareto analysis shows that 8 sub-categories account for approximately 80% of total sales, indicating a well-diversified portfolio. Retain this structure while improving process efficiency and replenishment speed.
+
+---
+
+<p align="center">
+  <em><sub>This project uses a publicly available retail dataset and a sample company context, created for analytical demonstration and portfolio presentation purposes.</em></sub>
+</p>
 
