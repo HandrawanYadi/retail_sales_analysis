@@ -1,1 +1,35 @@
+-- Displays cumulative contribution of each Sub-Category to overall sales.
+% Total Sales Cumulative = 
+    DIVIDE(
+        [Running Total Sales],
+        [Total Sales All],
+        0
+    )
 
+-- Defines the order of Sub-Categories from highest to lowest sales.
+Rank = 
+    RANKX(
+        ALL('Retails Order Full Dataset'[Sub-Category]),
+        [Total Sales]
+    )
+
+
+-- Calculates cumulative sales up to the current Sub-Category.
+Running Total Sales = 
+    CALCULATE(
+        [Total Sales],
+            TOPN([Rank],
+            ALL('Retails Order Full Dataset'[Sub-Category]),
+            [Total Sales]
+        )
+    )
+
+-- Base measure for all calculations.
+Total Sales = SUM('Retails Order Full Dataset'[Sales])
+
+-- Provides a fixed total value across all Sub-Categories for percentage calculation.
+Total Sales All = 
+    CALCULATE(
+        [Total Sales],
+        ALL('Retails Order Full Dataset'[Sub-Category])
+        )
