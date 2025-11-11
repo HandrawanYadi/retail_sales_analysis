@@ -13,12 +13,11 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 ## Northstar Metrics
 
-- **Sales Trends** — Analysing key metrics such as total revenue, number of orders, sales volume, and average order value (AOV) to assess growth patterns and seasonal fluctuations.  
-- **Product Performance** — Evaluating category-level and subcategory-level profitability to identify high-performing products and items with declining margins or refund rates.  
-- **Customer Segmentation** — Examining consumer, corporate, and home-office segments to understand behavioural differences and purchase frequency.  
-- **Regional Insights** — Assessing sales distribution and profit contribution by state, city, and region to reveal performance gaps and emerging market opportunities.  
-- **Discount and Profitability Analysis** — Measuring the impact of discounts on revenue and profit margins to refine pricing and promotional strategies.  
-- **Returns Analysis** — Investigating patterns in returned items to uncover operational inefficiencies or product quality concerns.
+- **Sales Revenue** — Tracks total revenue growth, highlighting consistent quarterly increases from 2014 to 2017 and peak performance in Q4 each year. Used to measure business expansion and seasonality trends.  
+- **Average Order Value (AOV)** — Evaluates how much customers spend per order. Shows 2016 peak due to premium purchases, followed by a 2017 shift to lower-priced items, guiding pricing and bundling strategies.  
+- **Profit** — Measures gross margin stability and efficiency gains. Demonstrates improved cost control, higher margins, and sustainable profitability by 2017.  
+- **Number of Orders** — Indicates sales volume and customer engagement. Upward trajectory (+152% in four years) confirms that growth is driven by higher order counts rather than larger baskets.  
+- **Pareto Sales Distribution** — Assesses contribution by sub-category. Reveals balanced diversification, with 8 sub-categories covering ~80% of sales, guiding focus for inventory planning and stock optimisation.
 
 ---
 
